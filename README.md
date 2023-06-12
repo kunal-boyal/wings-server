@@ -1,1 +1,1 @@
-# wings-server
+# wings-serve
